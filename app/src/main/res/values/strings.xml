@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Bluetooth</string>
+    <string name="button_disconnect">Discoonect</string>
+    <string name="button_connect">connect</string>
+    <string name="title_devices">Title</string>
+    <string name="scan">Scan</string>
+</resources>
